@@ -1,0 +1,10 @@
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\bin\Debug\Witch_Game.exe.config
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\bin\Debug\Witch_Game.exe
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\bin\Debug\Witch_Game.pdb
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.csprojAssemblyReference.cache
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.Form1.resources
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.Properties.Resources.resources
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.csproj.GenerateResource.cache
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.csproj.CoreCompileInputs.cache
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.exe
+C:\Users\Shamita\source\repos\Witch_Game\Witch_Game\obj\Debug\Witch_Game.pdb
